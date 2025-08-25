@@ -1,5 +1,11 @@
 # 🔬 AudioLens: A Closer Look at Auditory Attribute Perception of Large Audio-Language Models
 
+### The official GitHub page of the paper "AudioLens: A Closer Look at Auditory Attribute Perception of Large Audio-Language Models"
+- Authors: [Chih-Kai Yang](https://www.linkedin.com/in/chih-kai-yang-82201a221/), Neo S. Ho, Yi-Jyun Lee, Hung-yi Lee
+- Affiliation: National Taiwan University
+- Accepted to **ASRU 2025**
+- Paper link: https://arxiv.org/abs/2506.05140
+
 ## 📢 News
 
 - [2025/08/11] Our [paper](https://arxiv.org/abs/2506.05140) is accepted to ASRU 2025! See you in Hawaii!
